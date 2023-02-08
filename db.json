@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "email": "uni@gmail.com",
+      "password": "$2a$10$LXiIW.XBXYEXPcN807fS7uUfMcgrYIT6bs76H2fihXSeLBihgERKC",
+      "name": "hemant",
+      "saved":[],
+      "id": 1
+    },
+    {
+      "email": "something@gmail.com",
+      "password": "$2a$10$ltb7NjVS9jVs69kt2VqjGe9ZKgNUCBgwyPhqBLpaT0j4bwTLE5mYi",
+      "name": "something",
+      "id": 2
+    },
+    {
+      "email": "aher@gmail.com",
+      "password": "$2a$10$9jXLs1TEAiLqqNNKQZcAbuJL91jX4stfz/DYmTjHaci7LEcvocuTO",
+      "name": "hemant",
+      "id": 3
+    }
+  ],
+  "property": [
+    {
+      "id": 1,
+      "type": "house",
+      "location": "ShivajiNagar, Pune",
+      "price": 1000000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a beautifully renovated 3 bedroom, 2 bathroom house located in the heart of New York City. With hardwood floors and high ceilings, this property is a must-see!",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-large-modern-contemporary-house-wood-concrete_190619-1484.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 2,
+      "type": "house",
+      "location": "Costa e Silva",
+      "price": 600000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"The Federal Real Property Report includes summary data for the federal government's inventory of land, building, and structure assets around the world.",
+      "image": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 3,
+      "type": "apaartment",
+      "location": "Baner, Pune",
+      "price": 800000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a stunning 2 bedroom, 2 bathroom condo with a private balcony and breathtaking views of the city. The open floor plan is perfect for entertaining!",
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 4,
+      "type": "appartment",
+      "location": "Centro",
+      "price": 500000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, saepe explicabo? Exercitationem neque natus voluptas, ex mollitia nemo. Minima fuga quidem incidunt ullam neque eligendi iusto sit nemo rem quam.",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-modern-classic-house-with-luxury-garden_105762-111.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 5,
+      "type": "house",
+      "location": "ShivajiNagar, Pune",
+      "price": 1000000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a beautifully renovated 3 bedroom, 2 bathroom house located in the heart of New York City. With hardwood floors and high ceilings, this property is a must-see!",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-large-modern-contemporary-house-wood-concrete_190619-1484.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 6,
+      "type": "house",
+      "location": "Costa e Silva",
+      "price": 600000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"The Federal Real Property Report includes summary data for the federal government's inventory of land, building, and structure assets around the world.",
+      "image": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 7,
+      "type": "apaartment",
+      "location": "Baner, Pune",
+      "price": 800000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a stunning 2 bedroom, 2 bathroom condo with a private balcony and breathtaking views of the city. The open floor plan is perfect for entertaining!",
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 8,
+      "type": "appartment",
+      "location": "Centro",
+      "price": 500000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, saepe explicabo? Exercitationem neque natus voluptas, ex mollitia nemo. Minima fuga quidem incidunt ullam neque eligendi iusto sit nemo rem quam.",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-modern-classic-house-with-luxury-garden_105762-111.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 9,
+      "type": "house",
+      "location": "ShivajiNagar, Pune",
+      "price": 1000000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a beautifully renovated 3 bedroom, 2 bathroom house located in the heart of New York City. With hardwood floors and high ceilings, this property is a must-see!",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-large-modern-contemporary-house-wood-concrete_190619-1484.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 10,
+      "type": "house",
+      "location": "Costa e Silva",
+      "price": 600000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"The Federal Real Property Report includes summary data for the federal government's inventory of land, building, and structure assets around the world.",
+      "image": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 11,
+      "type": "apaartment",
+      "location": "Baner, Pune",
+      "price": 800000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a stunning 2 bedroom, 2 bathroom condo with a private balcony and breathtaking views of the city. The open floor plan is perfect for entertaining!",
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 12,
+      "type": "appartment",
+      "location": "Centro",
+      "price": 500000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, saepe explicabo? Exercitationem neque natus voluptas, ex mollitia nemo. Minima fuga quidem incidunt ullam neque eligendi iusto sit nemo rem quam.",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-modern-classic-house-with-luxury-garden_105762-111.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 13,
+      "type": "house",
+      "location": "ShivajiNagar, Pune",
+      "price": 1000000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a beautifully renovated 3 bedroom, 2 bathroom house located in the heart of New York City. With hardwood floors and high ceilings, this property is a must-see!",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-large-modern-contemporary-house-wood-concrete_190619-1484.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 14,
+      "type": "house",
+      "location": "Costa e Silva",
+      "price": 600000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"The Federal Real Property Report includes summary data for the federal government's inventory of land, building, and structure assets around the world.",
+      "image": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 15,
+      "type": "apaartment",
+      "location": "Baner, Pune",
+      "price": 800000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a stunning 2 bedroom, 2 bathroom condo with a private balcony and breathtaking views of the city. The open floor plan is perfect for entertaining!",
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 16,
+      "type": "appartment",
+      "location": "Centro",
+      "price": 500000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, saepe explicabo? Exercitationem neque natus voluptas, ex mollitia nemo. Minima fuga quidem incidunt ullam neque eligendi iusto sit nemo rem quam.",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-modern-classic-house-with-luxury-garden_105762-111.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 17,
+      "type": "house",
+      "location": "ShivajiNagar, Pune",
+      "price": 1000000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a beautifully renovated 3 bedroom, 2 bathroom house located in the heart of New York City. With hardwood floors and high ceilings, this property is a must-see!",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-large-modern-contemporary-house-wood-concrete_190619-1484.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 18,
+      "type": "house",
+      "location": "Costa e Silva",
+      "price": 600000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"The Federal Real Property Report includes summary data for the federal government's inventory of land, building, and structure assets around the world.",
+      "image": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 19,
+      "type": "apaartment",
+      "location": "Baner, Pune",
+      "price": 800000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"This is a stunning 2 bedroom, 2 bathroom condo with a private balcony and breathtaking views of the city. The open floor plan is perfect for entertaining!",
+      "image": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    },
+    {
+      "id": 20,
+      "type": "appartment",
+      "location": "Centro",
+      "price": 500000,
+      "agent":{"mame":"john doe",
+               "email":"aher.hemant7@gmail.com",
+              "contact":9876543210},
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, saepe explicabo? Exercitationem neque natus voluptas, ex mollitia nemo. Minima fuga quidem incidunt ullam neque eligendi iusto sit nemo rem quam.",
+      "image": "https://img.freepik.com/premium-photo/3d-rendering-modern-classic-house-with-luxury-garden_105762-111.jpg?size=626&ext=jpg&ga=GA1.2.648708624.1673343959&semt=sph"
+    }
+  ]
+
+}
